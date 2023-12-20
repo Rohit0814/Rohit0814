@@ -1,4 +1,4 @@
-![logo](https://github.com/Rohit0814/Rohit0814/blob/main/1689681246131.jpeg)
+![logo](https://github.com/Rohit0814/Rohit0814/blob/main/logo11.png)
 
 <h1 align="center">Hi 👋, I'm Rohit Singh</h1>
 <h3 align="center">A passionate Full Stack developer from India</h3>
