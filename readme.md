@@ -1,4 +1,4 @@
-![logo]([https://github.com/Rohit0814/Rohit0814/blob/main/logo11.png](https://media.licdn.com/dms/image/D5616AQFHxRQFGrkUJQ/profile-displaybackgroundimage-shrink_350_1400/0/1706986529605?e=1712188800&v=beta&t=oh3teSGuIoaAYf6czzB-TUYdsCjhDT32KcpgCI2YxS8))
+![logo]([https://github.com/Rohit0814/Rohit0814/blob/main/Screenshot%202024-02-04%20003447.png?raw=true])
 
 <h1 align="center">Hi 👋, I'm Rohit Singh</h1>
 <h3 align="center">A passionate Full Stack developer from India</h3>
